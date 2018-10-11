@@ -1,0 +1,9 @@
+vendor/bundle
+sinatra.log
+dump.rdb
+log/*
+.bundle
+venv
+vendor
+node_modules
+local
